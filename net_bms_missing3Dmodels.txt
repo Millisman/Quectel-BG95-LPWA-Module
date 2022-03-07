@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2022-01-12 02:04
+### Printed by checking_3D_models plugin
+Board file: /home/user/kicad/net_bms/net_bms.kicad_pcb
+3D missing models written to:
+/home/user/kicad/net_bms/net_bms_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']

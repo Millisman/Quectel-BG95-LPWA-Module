@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/net_bms_GSMM.pretty")(options "")(descr ""))
+  (lib (name "net_bms")(type "KiCad")(uri "${KIPRJMOD}/net_bms_GSMM.pretty")(options "")(descr ""))
+)
